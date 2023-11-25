@@ -1,0 +1,14 @@
+{
+  "name": "how-node-works",
+  "version": "1.0.0",
+  "main": "event-loop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
